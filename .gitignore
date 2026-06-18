@@ -1,0 +1,16 @@
+multiplication-arrays/node_modules
+multiplication-arrays/dist
+multiplication-arrays/dist-ssr
+multiplication-arrays/*.local
+multiplication-arrays/*.development
+multiplication-arrays/*.production
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.log
