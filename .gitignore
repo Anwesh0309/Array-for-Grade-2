@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dependencies
 node_modules/
 .pnp
@@ -16,11 +17,24 @@ dist-ssr/
 # Editor
 .vscode/
 .idea/
+=======
+multiplication-arrays/node_modules
+multiplication-arrays/dist
+multiplication-arrays/dist-ssr
+multiplication-arrays/*.local
+multiplication-arrays/*.development
+multiplication-arrays/*.production
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+>>>>>>> 71e028d72ccbd28c5c98bb3b2a9c882977a8a345
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 
 # OS
 .DS_Store
@@ -33,3 +47,7 @@ yarn-error.log*
 
 # Cache
 .cache/
+=======
+*.log
+>>>>>>> 71e028d72ccbd28c5c98bb3b2a9c882977a8a345
+.vercel
